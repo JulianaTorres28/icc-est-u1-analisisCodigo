@@ -51,4 +51,3 @@ public class Benchmarking {
         return (fin- inicio)/1000.0;// se divide para 1000 pq es milisiegindos
     }
 }
-}
